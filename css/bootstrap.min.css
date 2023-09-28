@@ -66,15 +66,15 @@
   {
     position: fixed;
     z-index: 101;
-    display: block;
-    font-size: 20px;
+    display: flex;
+    font-size: 20x;
     text-shadow: #000 1px 0 10px;
     color: #f2fff7;
     text-decoration: none;
     border-radius: 10%;
     background: rgb(0,0,0,0.8);
     border: 0;
-    top: 1%;
+    margin-top: 1%;
     margin-left: 42.5%;
   }
   .topmenu

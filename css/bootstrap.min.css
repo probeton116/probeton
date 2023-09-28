@@ -65,7 +65,7 @@
   {
     position: fixed;
     z-index: 101;
-    display: flex;
+    display: block;
     font-size: 20x;
     text-shadow: #000 1px 0 10px;
     color: #f2fff7;
@@ -91,7 +91,7 @@
 
       .topmenu
       {
-        display: block;
+        display: flex;
         position: fixed;
         z-index: 100;
       }
